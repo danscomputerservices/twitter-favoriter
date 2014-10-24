@@ -1,11 +1,13 @@
-twitter-favoriter
-=================
+Twitter Favoriter
+=========
 
-Simple bot script to monitor tweets of a given area, and favorite the tweets that come in. It is in full compliance with Twitter's TOS as well as their API limitations for v1.1
+Simple bot to favorite tweets from a given area.
 
-To run this bot you need:
-your APP API Credentials found at http://dev.twitter.com
-a server with Python 2.7x
-Coordinates of a given area you wish to monitor #http://boundingbox.klokantech.com/ -- select 'CSV' from the dropdown
+To run this you need:
+
+  - Twitter App API creds found here: https://dev.twitter.com
+  - A server running Python 2.7x
+  - Coordinates of a given area : http://boundingbox.klokantech.com/ -- select 'CSV' from the dropdown
+  -
 
 Cheers!
